@@ -18,16 +18,10 @@
       <text class="text-special">凭好物 Beauty Things</text>
     </view>
     <view class="about-detail-details">
-      <text>Ms·时代甄选女性品质好物</text>
+      <text>Ms时代执着于甄选女性品质好物</text>
     </view>
     <view class="about-detail-details">
-      <text>拥有长期主义理念用长远的眼光看问题</text>
-    </view>
-    <view class="about-detail-details">
-      <text>痴迷于当代女性对品质生活方式需求的探索</text>
-    </view>
-    <view class="about-detail-details">
-      <text>坚持做对的事情和时间做朋友</text>
+      <text>痴迷于当代女性对品质生活方式追求与探索</text>
     </view>
     <view class="about-detail-details">
       <text class="text-special">识美学 Know Aesthetics</text>
@@ -38,18 +32,6 @@
     <view class="about-detail-details">
       <text>做灵魂美学的缔造者</text>
     </view>
-    <view class="about-detail-details">
-      <text> 通过个性服务需求驱动</text>
-    </view>
-    <view class="about-detail-details">
-      <text> 科技社会文化元素和消费者体验完美结合</text>
-    </view>
-    <view class="about-detail-details">
-      <text>重塑多场景全渠道的购物方式</text>
-    </view>
-    <view class="about-detail-details">
-      <text>把体验推向极致</text>
-    </view>
     <view class="image-about">
         <image class="" src="/images/about1.jpg" mode="aspectFit"></image>
     </view>
@@ -58,22 +40,18 @@
       <text class="text-special">明品质 Identify Quality</text>
     </view>
     <view class="about-detail-details">
-      <text>从选品到上架销售</text>
+      <text>每个产品无一不经过</text>
     </view>
     <view class="about-detail-details">
-      <text>全品都经过专业团队层层筛选</text>
+      <text>层层筛选</text>
     </view>
     <view class="about-detail-details">
-      <text>专业的品控团队</text>
-    </view>
-    <view class="about-detail-details">
-      <text>每款产品都经得起考验</text>
+      <text>由专业的品控团队</text>
     </view>
     <view class="about-detail-details">
       <text>做品质保障的践行者</text>
     </view>
     
-
     <view class="about-detail-details">
       <text class="text-special">见生活 See Life</text>
     </view>
@@ -81,19 +59,10 @@
       <text>通过对品质生活和女性内心的不断探索</text>
     </view>
     <view class="about-detail-details">
-      <text>创造当代女性的无限可能</text>
-    </view>
-    <view class="about-detail-details">
-      <text>通过一整套体系实现“所想即所得”</text>
-    </view>
-    <view class="about-detail-details">
-      <text>提升对生活的热爱</text>
+      <text>让女性对生活的热爱</text>
     </view>
     <view class="about-detail-details">
       <text>温暖且有力量</text>
-    </view>
-    <view class="about-detail-details">
-      <text>追求丰富而有益的人生</text>
     </view>
     <!-- <view class="about-detail-details">
       <text>无数座城市，无数个品牌，无数种品类皆留下我们跋涉探访的印记</text>
@@ -150,50 +119,6 @@
       <image class="" src="/images/about3.jpg" mode="aspectFit"></image>
     </view>
 
-    <view class="background-text">
-
-  <view class="about-background">
-    <text >平台优势</text>
-  </view>
-  <view class="about-background-english">
-    <text > PLATFORM ADVANTAGE</text>
-  </view>
-  <view class="about-background-text">
-    <text>实现标准化、系统化、流程化、职业化、数字化的管理</text>
-  </view>
-  <view class="about-background-text">
-    <text>立志做客户、创业者、员工的超长期合作伙伴</text>
-  </view>
-  <view class="about-background-text">
-    <text>打造超越雇佣的新型合伙人</text>
-  </view>
-  <view class="about-background-text">
-    <text>发挥每个人的企业家精神，在过程中彼此合作学习和收获</text>
-  </view>
-  <view class="about-background-text">
-    <text>对于有趣价值观一致的伙伴</text>
-  </view>
-  <view class="about-background-text">
-    <text>我们奉献长期主义，给予其充足的成长时间</text>
-  </view>
-  <view class="about-background-text">
-    <text>必定可以“走得更远”</text>
-  </view>
-  <view class="about-background-text">
-    <text>与成功相比成长的历程更令人难忘</text>
-  </view>
-  <view class="about-background-text">
-    <text>呼唤人性中真正有温度的链接</text>
-  </view>
-  <view class="about-background-text-second">
-  <text></text>
-  </view>
-  </view>
-
-  <view class="image-about">
-  <image class="" src="/images/about4.jpg" mode="aspectFit"></image>
-  </view>
-
   </view>
 
   <view class="zs-background">
@@ -213,7 +138,7 @@
        <text>service@mstimes.com.cn</text>
      </view>
       <view class="about-zs-background-text">
-      <text>15267026002 （Tel & WeChat）</text>
+      <text>400-009-0801</text>
     </view>
   </view>
 

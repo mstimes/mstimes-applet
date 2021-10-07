@@ -62,7 +62,7 @@ Page({
           "Content-Type": "application/x-www-form-urlencoded"
         },
         method: "POST",
-        url: 'https://server.ghomelifevvip.com:8080/goods/queryGoodById',
+        url: 'https://server.ghomelifevvip.com/goods/queryGoodById',
         data: {
           "goodId": options.id
         },

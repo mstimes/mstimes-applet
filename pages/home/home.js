@@ -45,11 +45,11 @@ Page({
     var month = date.getMonth()+1;//获取月  
     var day = date.getDate(); //获取日
     var today = year + '-' + month + '-' + day
-    var todayUrl = "https://server.ghomelifevvip.com:8080/goods/queryGoodsList?groupStartDate=" + today;
+    var todayUrl = "https://server.ghomelifevvip.com/goods/queryGoodsList?groupStartDate=" + today;
     // 获取昨天时间
     var day1 = new Date();
     day1.setTime(day1.getTime()-24*60*60*1000);
-    var yesUrl = "https://server.ghomelifevvip.com:8080/goods/queryGoodsList?groupStartDate=" + day1.getFullYear()+"-" + (day1.getMonth()+1) + "-" + day1.getDate();
+    var yesUrl = "https://server.ghomelifevvip.com/goods/queryGoodsList?groupStartDate=" + day1.getFullYear()+"-" + (day1.getMonth()+1) + "-" + day1.getDate();
     console.log(yesUrl)
     //获取今天货物
     wx.request({
