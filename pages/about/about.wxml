@@ -1,0 +1,226 @@
+<!--pages/about/about.wxml-->
+<view class="hidden-left-right">
+  <view class="about-container">
+    <view class="top-image-title">
+        <image class="imagesize-image" src="/images/about0.png" mode="aspectFit"></image>
+    </view>
+    <view class="about-detail">
+      <text>一个专注于探索美学边界的轻奢馆</text>
+    </view>
+    <!-- <view class="about-detail-english">
+      <text>A light luxury museum focused on exploring the boundaries of aesthetics.</text>
+    </view> -->
+    <view class="about-detail-english">
+      <text>Focused On Exploring The Boundaries Of Aesthetics.</text>
+    </view>
+   
+    <view class="about-detail-details">
+      <text class="text-special">凭好物 Beauty Things</text>
+    </view>
+    <view class="about-detail-details">
+      <text>Ms·时代甄选女性品质好物</text>
+    </view>
+    <view class="about-detail-details">
+      <text>拥有长期主义理念用长远的眼光看问题</text>
+    </view>
+    <view class="about-detail-details">
+      <text>痴迷于当代女性对品质生活方式需求的探索</text>
+    </view>
+    <view class="about-detail-details">
+      <text>坚持做对的事情和时间做朋友</text>
+    </view>
+    <view class="about-detail-details">
+      <text class="text-special">识美学 Know Aesthetics</text>
+    </view>
+    <view class="about-detail-details">
+      <text>专注于一切与美有关的生活品质好物</text>
+    </view>
+    <view class="about-detail-details">
+      <text>做灵魂美学的缔造者</text>
+    </view>
+    <view class="about-detail-details">
+      <text> 通过个性服务需求驱动</text>
+    </view>
+    <view class="about-detail-details">
+      <text> 科技社会文化元素和消费者体验完美结合</text>
+    </view>
+    <view class="about-detail-details">
+      <text>重塑多场景全渠道的购物方式</text>
+    </view>
+    <view class="about-detail-details">
+      <text>把体验推向极致</text>
+    </view>
+    <view class="image-about">
+        <image class="" src="/images/about1.jpg" mode="aspectFit"></image>
+    </view>
+
+    <view class="about-detail-details">
+      <text class="text-special">明品质 Identify Quality</text>
+    </view>
+    <view class="about-detail-details">
+      <text>从选品到上架销售</text>
+    </view>
+    <view class="about-detail-details">
+      <text>全品都经过专业团队层层筛选</text>
+    </view>
+    <view class="about-detail-details">
+      <text>专业的品控团队</text>
+    </view>
+    <view class="about-detail-details">
+      <text>每款产品都经得起考验</text>
+    </view>
+    <view class="about-detail-details">
+      <text>做品质保障的践行者</text>
+    </view>
+    
+
+    <view class="about-detail-details">
+      <text class="text-special">见生活 See Life</text>
+    </view>
+   <view class="about-detail-details">
+      <text>通过对品质生活和女性内心的不断探索</text>
+    </view>
+    <view class="about-detail-details">
+      <text>创造当代女性的无限可能</text>
+    </view>
+    <view class="about-detail-details">
+      <text>通过一整套体系实现“所想即所得”</text>
+    </view>
+    <view class="about-detail-details">
+      <text>提升对生活的热爱</text>
+    </view>
+    <view class="about-detail-details">
+      <text>温暖且有力量</text>
+    </view>
+    <view class="about-detail-details">
+      <text>追求丰富而有益的人生</text>
+    </view>
+    <!-- <view class="about-detail-details">
+      <text>无数座城市，无数个品牌，无数种品类皆留下我们跋涉探访的印记</text>
+    </view> -->
+   
+    <view class="image-about">
+        <image class="" src="/images/about2.jpg" mode="aspectFit"></image>
+    </view>
+
+    <view class="background-text">
+
+      <view class="about-background">
+        <text >背景实力</text>
+      </view>
+      <view class="about-background-english">
+        <text > STRONG BACKGROUND</text>
+      </view>
+      <view class="about-background-text">
+        <text>强大的供应链体系</text>
+      </view>
+      <view class="about-background-text">
+        <text>签约百家知名品牌深度合作</text>
+      </view>
+      <view class="about-background-text">
+        <text>整合专业的买手团队及品控质检团队</text>
+      </view>
+      <view class="about-background-text">
+        <text>为女性品质生活奠定基石</text>
+      </view>
+      <view class="about-background-text-divide">
+        <text></text>
+      </view>
+      <view class="about-background-text-second">
+        <text>坚实的大数据分析及系统建设能力</text>
+      </view>
+      <view class="about-background-text-second">
+      <text>提供丰富的数据支持</text>
+      </view>
+      <view class="about-background-text-second">
+      <text>提供高效且便捷的购物体验</text>
+      </view>
+      <view class="about-background-text-second">
+        <text>联合知名品牌营销及运营团队</text>
+      </view>
+      <view class="about-background-text-second">
+        <text>共同打造持续影响</text>
+      </view>
+      <view class="about-background-text-second">
+        <text>当代女性的全品类购物平台</text>
+      </view>
+    </view>
+     
+    <view class="image-about">
+      <image class="" src="/images/about3.jpg" mode="aspectFit"></image>
+    </view>
+
+    <view class="background-text">
+
+  <view class="about-background">
+    <text >平台优势</text>
+  </view>
+  <view class="about-background-english">
+    <text > PLATFORM ADVANTAGE</text>
+  </view>
+  <view class="about-background-text">
+    <text>实现标准化、系统化、流程化、职业化、数字化的管理</text>
+  </view>
+  <view class="about-background-text">
+    <text>立志做客户、创业者、员工的超长期合作伙伴</text>
+  </view>
+  <view class="about-background-text">
+    <text>打造超越雇佣的新型合伙人</text>
+  </view>
+  <view class="about-background-text">
+    <text>发挥每个人的企业家精神，在过程中彼此合作学习和收获</text>
+  </view>
+  <view class="about-background-text">
+    <text>对于有趣价值观一致的伙伴</text>
+  </view>
+  <view class="about-background-text">
+    <text>我们奉献长期主义，给予其充足的成长时间</text>
+  </view>
+  <view class="about-background-text">
+    <text>必定可以“走得更远”</text>
+  </view>
+  <view class="about-background-text">
+    <text>与成功相比成长的历程更令人难忘</text>
+  </view>
+  <view class="about-background-text">
+    <text>呼唤人性中真正有温度的链接</text>
+  </view>
+  <view class="about-background-text-second">
+  <text></text>
+  </view>
+  </view>
+
+  <view class="image-about">
+  <image class="" src="/images/about4.jpg" mode="aspectFit"></image>
+  </view>
+
+  </view>
+
+  <view class="zs-background">
+    <view class="about-zs-contentUS-title">
+      <text>OFFICIAL</text>
+    </view>
+    <view class="about-zs-background-mail">
+      <text>contact@mstimes.com.cn</text>
+    </view>
+      <view class="image-about-ewm">
+          <image class="image-ewm-size" src="/images/aboutewm.png" mode="aspectFit"></image>
+      </view>
+      <view class="about-zs-contentUS-title">
+        <text>CONTACT US</text>
+      </view>
+      <view class="about-zs-background-mail">
+       <text>service@mstimes.com.cn</text>
+     </view>
+      <view class="about-zs-background-text">
+      <text>15267026002 （Tel & WeChat）</text>
+    </view>
+  </view>
+
+  <view class="about-title">
+    <text ></text>
+  </view>
+</view>
+
+
+

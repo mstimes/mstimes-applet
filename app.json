@@ -1,0 +1,21 @@
+{
+  "pages": [
+   
+    "pages/home/home",
+    "pages/login/login",
+    "pages/detail/detail",
+    "pages/index/index",
+    "pages/about/about",
+    "pages/logs/logs",
+    "pages/webview/webview"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarTitleText": "她时代  ·  正当下",
+    "navigationStyle": "default",
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#eeeeee"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

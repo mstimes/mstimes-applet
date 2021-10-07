@@ -1,0 +1,7 @@
+<!--pages/login/login.wxml-->
+<view class="image-about">
+  <image class="" src="/images/about3.jpg" mode="aspectFit"></image>
+</view>
+<view class="share-button">
+  <button class="butt" type="primary" size="small" open-type="share">一键授权</button>
+</view>

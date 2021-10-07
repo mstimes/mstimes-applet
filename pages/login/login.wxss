@@ -1,0 +1,22 @@
+/* pages/login/login.wxss */
+
+.image-about{
+  padding:10px 30px 20px 30px;
+  display:flex;                 
+ justify-content: center;   
+}
+.share-button {
+  /* background:  #ffffff; */
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  padding: 15rpx 0;
+}
+.butt {
+  font-size: 24rpx; 
+  width: 100%;
+  color:#4a4b4b;
+}
